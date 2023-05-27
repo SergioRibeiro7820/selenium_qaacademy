@@ -82,3 +82,5 @@ public class exercicio_formulario {
 //https://demo.automationtesting.in/Register.html site para realizar o teste.
 
 //https://www.browserstack.com/guide/selenium-scroll-tutorial - código scroll javascript
+
+//sudo snap install intellij-idea-ultimate --classic - instalar o intellij
